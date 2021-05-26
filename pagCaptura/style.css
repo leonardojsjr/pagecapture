@@ -1,0 +1,83 @@
+
+
+body{
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+div{
+    margin: auto;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    width: 485px;
+
+}
+
+div img{
+    padding-top: 40px;
+    width: 150px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 60px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+h2{
+    font-weight:bold;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.input{
+    background: white;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    justify-content: space-between;
+    border-style: none;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.margin{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.button{
+    background-color: rgb(15, 100, 180);
+    border-style: none;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    width: 104%;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.button:hover{
+    background-color: rgb(32, 130, 221);
+}
+
+.colortext{
+    color: white;
+    font-size: 12px;
+}
